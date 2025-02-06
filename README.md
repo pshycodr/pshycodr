@@ -86,10 +86,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/pshycodr/pshycodr/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h2 align="left">Send me a HI 👋👋</h2>
 
 ###
