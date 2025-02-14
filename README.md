@@ -1,99 +1,43 @@
-<h1 align="center">Hi folks, I'm Anish Roy</h1>
+# Hi folks, I'm Anish Roy 👋
 
-###
+---
 
-<p align="center">A passionate Developer, Quick learner and I love Bugs 🐞</p>
+### 🚀 About Me
 
-###
+I'm a passionate **developer** with a keen interest in **web technologies, system design, and cybersecurity**. I enjoy building scalable applications, exploring **new tech stacks**, and working on **open-source projects**. 
 
-<h1 align="center">Technologies I use</h1>
+When I'm not coding, I'm either **learning about spirituality**, diving into **philosophical discussions**, or capturing moments through **photography**. 
 
-###
 
-<h2 align="left">Programming Languages</h2>
+---
 
-###
+## 🛠 Technologies I Use
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
-</div>
+### 🖥️ Programming Languages
 
-###
+![JavaScript](https://skillicons.dev/icons?i=js) &nbsp; ![TypeScript](https://skillicons.dev/icons?i=ts) &nbsp; ![Python](https://skillicons.dev/icons?i=py) &nbsp; ![C](https://skillicons.dev/icons?i=c) &nbsp; ![C++](https://skillicons.dev/icons?i=cpp)
 
-<h2 align="left">Frontend</h2>
 
-###
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-</div>
+### 🎨 Frontend
 
-###
+![React](https://skillicons.dev/icons?i=react) &nbsp; ![Next.js](https://skillicons.dev/icons?i=nextjs) &nbsp; ![Tailwind CSS](https://skillicons.dev/icons?i=tailwind) &nbsp; ![Redux](https://skillicons.dev/icons?i=redux) &nbsp; ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) &nbsp; ![Figma](https://skillicons.dev/icons?i=figma)
 
-<h2 align="left">Backend</h2>
 
-###
+### 🔧 Backend
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cloudflare" height="40" alt="cloudflare logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
-</div>
+![Node.js](https://skillicons.dev/icons?i=nodejs) &nbsp; ![Express](https://skillicons.dev/icons?i=express) &nbsp; ![Hono.js](https://skillicons.dev/icons?i=javascript) &nbsp; ![Firebase](https://skillicons.dev/icons?i=firebase) &nbsp; ![AWS](https://skillicons.dev/icons?i=aws) &nbsp; ![Cloudflare](https://skillicons.dev/icons?i=cloudflare) &nbsp; ![MongoDB](https://skillicons.dev/icons?i=mongodb) &nbsp; ![PostgreSQL](https://skillicons.dev/icons?i=postgres) &nbsp; ![Vercel](https://skillicons.dev/icons?i=vercel)
 
-###
+### 🛠 Others
 
-<h2 align="left">Others</h2>
+<img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo" /> &nbsp; <img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="40" alt="kubernetes logo" /> &nbsp; <img src="https://cdn.simpleicons.org/prisma/2D3748" height="40" alt="prisma logo" />
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/prisma/2D3748" height="40" alt="prisma logo"  />
-</div>
+## 📬 Let's Connect
 
-###
+[![LinkedIn](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](https://www.linkedin.com/in/anish-roy-9076692a6) &nbsp; [![Twitter](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg)](https://twitter.com/the_aroy) &nbsp; <a href="https://instagram.com/aroy172"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="40" alt="instagram logo" /> </a>
 
-<h2 align="left">Send me a HI 👋👋</h2>
+---
 
-###
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-</div>
-
-###
+Looking forward to connecting with you! 😄❤️
