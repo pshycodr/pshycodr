@@ -21,7 +21,7 @@ When I'm not coding, I'm either **learning about spirituality**, diving into **p
 
 ### 🎨 Frontend
 
-![React](https://skillicons.dev/icons?i=react) &nbsp; ![Next.js](https://skillicons.dev/icons?i=nextjs) &nbsp; ![Tailwind CSS](https://skillicons.dev/icons?i=tailwind) &nbsp; ![Tailwind CSS](https://skillicons.dev/icons?i=tailwind) &nbsp; ![Redux](https://skillicons.dev/icons?i=redux) &nbsp; ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) &nbsp; ![Figma](https://skillicons.dev/icons?i=figma)
+![React](https://skillicons.dev/icons?i=react) &nbsp; ![Next.js](https://skillicons.dev/icons?i=nextjs) &nbsp; ![Tailwind CSS](https://skillicons.dev/icons?i=tailwind) &nbsp; ![Redux](https://skillicons.dev/icons?i=redux) &nbsp; ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) &nbsp; ![Figma](https://skillicons.dev/icons?i=figma)
 
 
 ### 🔧 Backend
