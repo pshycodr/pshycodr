@@ -21,12 +21,12 @@ When I'm not coding, I'm either **learning about spirituality**, diving into **p
 
 ### 🎨 Frontend
 
-![React](https://skillicons.dev/icons?i=react) &nbsp; ![Next.js](https://skillicons.dev/icons?i=nextjs) &nbsp; ![Tailwind CSS](https://skillicons.dev/icons?i=tailwind) &nbsp; ![Redux](https://skillicons.dev/icons?i=redux) &nbsp; ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) &nbsp; ![Figma](https://skillicons.dev/icons?i=figma)
+![React](https://skillicons.dev/icons?i=react) &nbsp; ![Next.js](https://skillicons.dev/icons?i=nextjs) &nbsp; ![Tailwind CSS](https://skillicons.dev/icons?i=tailwind) &nbsp; ![Tailwind CSS](https://skillicons.dev/icons?i=tailwind) &nbsp; ![Redux](https://skillicons.dev/icons?i=redux) &nbsp; ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) &nbsp; ![Figma](https://skillicons.dev/icons?i=figma)
 
 
 ### 🔧 Backend
 
-![Node.js](https://skillicons.dev/icons?i=nodejs) &nbsp; ![Express](https://skillicons.dev/icons?i=express) &nbsp; ![Hono.js](https://skillicons.dev/icons?i=javascript) &nbsp; ![Firebase](https://skillicons.dev/icons?i=firebase) &nbsp; ![AWS](https://skillicons.dev/icons?i=aws) &nbsp; ![Cloudflare](https://skillicons.dev/icons?i=cloudflare) &nbsp; ![MongoDB](https://skillicons.dev/icons?i=mongodb) &nbsp; ![PostgreSQL](https://skillicons.dev/icons?i=postgres) &nbsp; ![Vercel](https://skillicons.dev/icons?i=vercel)
+![Node.js](https://skillicons.dev/icons?i=nodejs) &nbsp; ![Express](https://skillicons.dev/icons?i=express) &nbsp; ![Django](https://skillicons.dev/icons?i=django) &nbsp; ![Firebase](https://skillicons.dev/icons?i=firebase) &nbsp; ![AWS](https://skillicons.dev/icons?i=aws) &nbsp; ![Cloudflare](https://skillicons.dev/icons?i=cloudflare) &nbsp; ![MongoDB](https://skillicons.dev/icons?i=mongodb) &nbsp; ![PostgreSQL](https://skillicons.dev/icons?i=postgres) &nbsp; ![Vercel](https://skillicons.dev/icons?i=vercel)
 
 ### 🛠 Others
 
